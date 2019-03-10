@@ -70,7 +70,7 @@ a:focus {
 }
 
 .navbar-custom .navbar-brand {
-    font-weight: 700;
+    overflow:hidden;
 }
 
 .navbar-custom .navbar-brand:focus {

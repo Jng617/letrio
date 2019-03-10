@@ -1,20 +1,20 @@
 # Site settings
 title: Welcome to Le Trio
 email: info@letriosf.com
-url: https://jng617.github.io/letrio
+url: https://www.letriosf.com/
 description: "Le Trio is a new Vietnamese cafe opening up in the Sunset! We are a small team dedicated to offering amazing customer service and fun atmosphere."
 
 # Color settings (hex-codes without the leading hash-tag)
 color:
-  primary-dark: '#BB4835'
-  links: '#219ab3'
+  primary-dark: '#F5F1DF'
+  links: '#C3493A'
 
 # Footer settings
 footer: Le Trio SF
 
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 social:
-  - title: Instagram
+  - title: instagram
     url: https://www.instagram.com/le_trio_sf/
   - title: facebook
     url: https://www.facebook.com/Le-Trio-912113682281794/

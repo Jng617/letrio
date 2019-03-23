@@ -257,7 +257,7 @@ a:focus {
     padding-top: 100px;
 }
 
-.download-section {
+.menu-section {
     width: 100%;
     padding: 50px 0;
     color: #fff;
@@ -276,7 +276,7 @@ a:focus {
         padding-top: 200px;
     }
 
-    .download-section {
+    .menu-section {
         padding: 100px 0;
     }
 
@@ -363,6 +363,23 @@ img::-moz-selection {
 
 body {
     webkit-tap-highlight-color: rgba(255,255,255,.2);
+}
+
+.menu-wrapper {
+	padding: 50px;
+	margin: 0 auto;
+}
+
+.menu-item-1 {
+	background: url(img/le-trio-menu-drinks.gif) no-repeat;
+	float:left;
+	width:100%;
+}
+
+.menu-item-2 {
+	background: url(img/le-trio-menu-food.gif) no-repeat;
+	float:right;
+	width:100%;
 }
 
 

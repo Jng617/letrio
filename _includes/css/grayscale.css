@@ -377,12 +377,12 @@ body {
 
 .menu-item-1 {
     width:400px;
-    background: url(../img/le-trio-menu-drinks.gif);
+    background: url(../img/le-trio-menu-drinks.gif) no-repeat;
 }
 
 .menu-item-2 {
     width:400px;
-    background-image: url(../img/le-trio-menu-food.gif);
+    background-image: url(../img/le-trio-menu-food.gif) no-repeat;
 }
 
 

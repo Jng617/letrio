@@ -380,6 +380,10 @@ body {
 }
 
 .menu-col-1 {
-    display: inline;
+    float:left;
+}
+
+.menu-col-2 {
+    float:right;
 }
 

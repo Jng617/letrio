@@ -370,3 +370,28 @@ body {
     color: #444;
     }
 
+.menu_container {
+    display: flex;
+    flex-flow: row wrap;
+}
+
+.menu-item-1 {
+    width:400px;
+    background: url(img/le-trio-menu-drinks.gif);
+}
+
+.menu-item-2 {
+    width:400px;
+    background: url(img/le-trio-menu-food.gif);
+}
+
+
+@media all and (min-width: 600px) {
+    .menu-item {flex: 1 auto;}
+}
+
+@media all and (min-width: 800px) {
+    .menu-item-1 {order: 1; }
+    .menu-item-2 {order: 2; }
+}
+

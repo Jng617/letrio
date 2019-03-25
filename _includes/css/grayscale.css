@@ -384,6 +384,9 @@ body {
     float:right;
 }
 
-.menu-item-1 img, .menu-item-2 img {
-    width:100%;
-
+.menu-item-1 img,
+    max-width:450px;
+}
+.menu-item-2 img,
+    max-width:450px;
+}

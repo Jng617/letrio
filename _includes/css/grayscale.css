@@ -375,15 +375,12 @@ body {
     margin:0 auto;
 }
 
-.menu-col-1 {
+.menu-col-1,menu-col-2 {
     width:490px;
     margin:10px;
 }
 
-.menu-col-2 {
-    width:490px;
-    margin:10px;
-}
+
 
 .menu_container ul {
     list-style:none;

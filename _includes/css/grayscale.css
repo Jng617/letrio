@@ -374,13 +374,18 @@ body {
     list-style:none;
     margin: 0;
 
+    display flex;
+    flex-wrap: wrap;
+
 }
 
 .menu-col-1 {
-    float:left;
+    width:490px;
+    margin:10px;
 }
 
 .menu-col-2 {
-    float:right;
+    width:490px;
+    margin:10px;
 }
 

@@ -371,4 +371,19 @@ body {
     }
 }
 
+.menu-wrapper {
+    padding:50px;
+    margin: 0 auto;
+    width:960px;
+}
+
+.menu-item-1 {
+    float:left;
+}
+.menu-item-2{
+    float:right;
+}
+
+.menu-item-1 img, .menu-item-2 img {
+    width:100%;
 

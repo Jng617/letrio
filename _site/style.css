@@ -371,15 +371,14 @@ body {
 }
 
 .menu-item-1 {
-	background: url(img/le-trio-menu-drinks.gif) no-repeat;
 	float:left;
-	width:600px;
+	width:100%;
+	padding-right:20px;
 }
 
 .menu-item-2 {
-	background: url(img/le-trio-menu-food.gif) no-repeat;
 	float:right;
-	width:600px;
+	width:100%;
 }
 
 

@@ -374,9 +374,6 @@ body {
     list-style:none;
     margin: 0;
 
-    -wwebkit-flex-flow: row wrap;
-    justify-content: flex-end;
-
 }
 
 .menu-col-1 {

@@ -379,7 +379,10 @@ body {
 
 ul {
     list-style: none;
-    padding:15px;
+    columns: 2;
+  -webkit-columns: 2;
+  -moz-columns: 2;
+
 }
 
 li {

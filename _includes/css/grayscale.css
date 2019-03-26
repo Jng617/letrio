@@ -371,16 +371,24 @@ body {
     }
 
 .menu_container {
-    width:100%;
-    margin:0 auto;
+    display:flex;
+    height:500px;
 }
-
 
 
 .menu_container ul {
-    list-style:none;
-    margin: 0;
-    display flex;
-    flex-wrap: wrap;
+    width: 300px;
+    height: 500px;
+    margin:auto;
 }
+
+@media all and (min-width: 600px) {
+  ul { flex: 1 0 0; }
+}
+
+li {
+    text-align:center;
+    line-height:0.5em;
+}
+
  

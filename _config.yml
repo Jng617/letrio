@@ -14,6 +14,8 @@ footer: Le Trio SF
 
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 social:
+  - title: yelp
+    url: https://www.yelp.com/biz/le-trio-san-francisco
   - title: instagram
     url: https://www.instagram.com/le_trio_sf/
   - title: facebook

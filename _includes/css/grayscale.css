@@ -391,4 +391,7 @@ li {
     line-height:0.5em;
 }
 
+ul.add li {
+    font-style: italic;
+}
  

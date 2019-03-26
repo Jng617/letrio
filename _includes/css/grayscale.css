@@ -377,21 +377,21 @@ body {
 }
 
 
-ul {
+.menu_container ul {
     list-style: none;
     padding:15px;
 }
 
-li {
+.menu_container ul li {
     text-align:center;
     font-size:18px;
 }
 
-ul.add li {
+.menu_container ul.add li {
     font-style: italic;
 }
 
-ul.add li:first-child {
+.menu_container ul.add li:first-child {
     font-style: bold;
 }
 

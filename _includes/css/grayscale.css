@@ -379,15 +379,12 @@ body {
 
 ul {
     list-style: none;
-    columns: 2;
-  -webkit-columns: 2;
-  -moz-columns: 2;
-
+    padding:15px;
 }
 
 li {
     text-align:center;
-    font-size:15px;
+    font-size:;
 }
 
 ul.add li {

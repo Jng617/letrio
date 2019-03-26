@@ -376,14 +376,13 @@ body {
 }
 
 
-.menu_container ul {
-    list-style:none;
-
+ul {
+    list-style: none;
+    padding:25px;
 }
 
 li {
     text-align:center;
-    line-height:0.5em;
 }
 
 ul.add li {

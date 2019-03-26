@@ -384,9 +384,15 @@ ul {
 
 li {
     text-align:center;
+    font-size:15px;
 }
 
 ul.add li {
     font-style: italic;
 }
+
+ul.add li:first-child {
+    font-style: bold;
+}
+
  
